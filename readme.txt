@@ -42,12 +42,12 @@ Note: By "yourusername" I mean your github username (as in step 1)
 
 7. In the opened terminal, run the following commands one after the other:
 
-cd brianmwevi.github.io // replace brianmwevi with your username
+cd Dion-Harvey.github.io // replace brianmwevi with your username
 git add . // alerts git of the updates we need to add to our repo
 git commit -m “Initial Commit” // saves the updates added above
-git push// pushes updates we made to the remote repo
+git push // pushes updates we made to the remote repo
 
-8. Navigate to http://githubusername.github.io to see your newly created online portfolio. In my case, it would be http://brianmwevi.github.io
+8. Navigate to http://Dion-Harvey.github.io to see your newly created online portfolio. In my case, it would be http://brianmwevi.github.io
 
 Things to note and bonus points
 Your live site (step 8) might take some time (appx. 5 minutes) to be available for viewing if it’s your first deployment.
